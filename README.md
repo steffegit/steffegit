@@ -1,4 +1,4 @@
-# 👋 Hi, I'm <a href="https://codexdev.me" target="_blank">CodexDev</a>!
+# Hey👋, I'm <a href="https://steffe.me" target="_blank">Steffe</a>
 
 ### More about me coming soon...
 
@@ -15,9 +15,9 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify&logoColor=white)
 
-<a href="http://www.github.com/codexdevv"><img src="https://github-readme-stats.vercel.app/api?username=codexdevv&show_icons=true&hide=&count_private=true&title_color=f2cc60&text_color=ffffff&icon_color=f2cc60&bg_color=0d1117&hide_border=true&show_icons=true" alt="Codexdevv's GitHub stats" /></a>
+<a href="http://www.github.com/steffegit"><img src="https://github-readme-stats.vercel.app/api?username=steffegit&show_icons=true&hide=&count_private=true&title_color=f2cc60&text_color=ffffff&icon_color=f2cc60&bg_color=0d1117&hide_border=true&show_icons=true" alt="steffegit's GitHub stats" /></a>
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/CodexDevv?theme=auto&font=baloo&extension=null)](https://leetcode.com/CodexDevv/)
+[![LeetCode Stats](https://leetcode.card.workers.dev/steffegit?theme=auto&font=baloo&extension=null)](https://leetcode.com/steffegit/)
 
 <br />
 <br />
