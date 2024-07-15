@@ -39,7 +39,8 @@ I scraped websites and put the data into tables in databases.
 
 # 🕒 Also...
 
-### I enjoy solving coding challenges on platforms like LeetCode and Codeforces. This helps me sharpen my problem-solving skills.
+### I enjoy solving coding challenges on platforms like LeetCode and Codeforces. <br />
+This helps me sharpen my problem-solving skills.
 <br />
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/steffeno1?theme=dark&font=Baloo%202)
