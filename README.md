@@ -7,7 +7,7 @@ I'm a second-year student at Polytechnic University of Bucharest, majoring in Co
 # ⚡ Technologies
   
 ### Cloud & Linux
-I've used Cloud & Linux in my spare time, university labs, and as Tech Support for **Google Cloud Platform**. <br />I also host my own apps on VPS.
+I've used Cloud & Linux in my spare time, university labs, and as a Techical Support Representative for **Google Cloud Platform**. <br />I also host my own apps on a VPS.
 <br /><br />
 ![My Skills](https://skillicons.dev/icons?i=gcp,bash,linux,git)
 
